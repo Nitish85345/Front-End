@@ -1,5 +1,5 @@
 # Goa Tourishm Web Pase
 
-## Features Implemented :
-    * Carousel Sliding
-    * Video Embedding
+**Features Implemented :**
+    Carousel Sliding
+    Video Embedding
